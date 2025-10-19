@@ -5,6 +5,7 @@ AdminSuite es un conjunto de scripts en Bash que automatiza tareas comunes de ad
 Permite gestionar usuarios y grupos, realizar respaldos programados, instalar la aplicacion web WordPress con Docker, consultar logs, monitorear la red y obtener información del sistema.
 
 ## Estructura del proyecto:
+```
 adminsuitex/
 ├── scripts/
 │   └── principal.sh
@@ -23,7 +24,7 @@ adminsuitex/
 └── reportes/
     ├── usuarios_grupos/
     └── red/
-
+```
 ## Entorno de pruebas:
 El script fue desarrollado y testeado en CentOS 7.
 
