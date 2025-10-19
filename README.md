@@ -54,5 +54,5 @@ El script fue desarrollado y testeado en CentOS 7.
 - Usar Docker y cron de forma controlada.
 
 ## Credenciales de la VM:
-- User: root
-- Password: abc123
+- Usuario: root
+- Contraseña: abc123
