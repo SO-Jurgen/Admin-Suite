@@ -1,4 +1,4 @@
-# Admin-Suite
+# Admin Suite
 
 ## Descripción general:
 AdminSuite es un conjunto de scripts en Bash que automatiza tareas comunes de administración en sistemas de Linux.
@@ -30,7 +30,7 @@ El script fue desarrollado y testeado en CentOS 7.
 ## Requisitos previos:
 - Distribución Linux (CentOS 7+, Rocky, Alma, u otras distribuciones basadas en Red Hat).
 - Acceso administrativo (sudo).
-- Paquetes: docker, nmap, tar, cronie, systemctl, journalctl (algunos los instala el script).
+- Dependencias: docker, nmap, tar, cron, systemctl, journalctl (algunos los instala el script).
 - Carpeta /adminsuitex/ en el directorio raíz con permisos adecuados.
 
 ## Instalación:
