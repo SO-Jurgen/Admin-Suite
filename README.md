@@ -39,7 +39,7 @@ El script fue desarrollado y testeado en CentOS 7.
 2. Dar permisos de ejecución:
 -- chmod +x principal.sh *.sh
 3. Ejecutar el menú principal:
--- bash adminsuite.sh
+-- bash principal.sh
 
 
 ## Uso básico:
@@ -52,3 +52,7 @@ El script fue desarrollado y testeado en CentOS 7.
 - Revisar el log /var/log/adminsuite.log para el registro de la actividad.
 - Verificar la existencia de respaldos antes de restaurar.
 - Usar Docker y cron de forma controlada.
+
+## Credenciales de la VM:
+- User: root
+- Password: abc123
