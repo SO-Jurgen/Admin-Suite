@@ -48,7 +48,7 @@ El script fue desarrollado y testeado en CentOS 7.
 - En cada uno, establecer el modo Adaptador puente para asegurar que no hayan fallos.
 - Finalmente, iniciar la máquina virtual.
 
-  ## Credenciales de la VM:
+## Credenciales de la VM:
 - Usuario: root
 - Contraseña: abc123
 
